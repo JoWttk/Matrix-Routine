@@ -1,1 +1,3 @@
-# Matrix-Routine
+# Matrix Routine
+## Python
+### Stating prototype
