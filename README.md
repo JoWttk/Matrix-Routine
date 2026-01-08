@@ -1,3 +1,1 @@
-# Matrix Routine
-## Python
-### Stating prototype
+# A Python Pygame 2D project under development
